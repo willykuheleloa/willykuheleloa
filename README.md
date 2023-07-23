@@ -1,4 +1,5 @@
-# What's up, I'm William! 👋 ![GitHub followers](https://img.shields.io/github/followers/willykuheleloa?style=social)
+# What's up, I'm William! 👋 ![GitHub followers](https://img.shields.io/github/followers/willykuheleloa?style=social) [![Linkedin: Your Name](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/william-kuheleloa/)
+
 
 Welcome to my life! I'm an ardent software developer from sunny San Diego, thriving on turning concepts into robust web and mobile applications that enhance lives and businesses. Off the coding grid, you'll find me fishing in the Pacific, spending quality time with family, and ceaselessly exploring new frontiers in technology.
 
