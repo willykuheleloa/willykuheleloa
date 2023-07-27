@@ -1,12 +1,26 @@
-# What's up, I'm William! 👋 ![GitHub followers](https://img.shields.io/github/followers/willykuheleloa?style=social) [![Linkedin: Your Name](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/william-kuheleloa/)
-
+<h2 align="center">👋 What's up, I'm William!</h2>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/willykuheleloa?style=social" alt="GitHub followers"/>
+  <a href="https://www.linkedin.com/in/william-kuheleloa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-kuheleloa/" alt="Linkedin Badge"/>
+  </a>
+</p>
 
 Welcome to my life! I'm an ardent software developer from sunny San Diego, thriving on turning concepts into robust web and mobile applications that enhance lives and businesses. Off the coding grid, you'll find me fishing in the Pacific, spending quality time with family, and ceaselessly exploring new frontiers in technology.
 
-- 🏗️ Presently Building: an innovative web application named "Recipe Whiz". This app harnesses the power of AI to generate comprehensive and personalized meal plans based on individual dietary restrictions and needs. 
-- 🎓 Mastering: My curiosity knows no bounds, but right now, I'm absorbed in deepening my understanding of cloud/noSQL databases.
-- 📮 Let's Connect: I love making new connections. You can reach me at willy_kuheleloa@yahoo.com or visit my website ___ (working on it now).
-- 🎲 Just for Fun: Well, here's an open secret - I pride myself on being a tireless workhorse, relentlessly striving for the pinnacle of quality in everything I create. I eagerly anticipate that right opportunity, that leap of faith from a company, to unleash my full potential and prove my worth in the face of past rejections.
+- 🏗️ **Presently Building**: an innovative web application named "Recipe Whiz". This app harnesses the power of AI to generate comprehensive and personalized meal plans based on individual dietary restrictions and needs.
+- 🎓 **Mastering**: My curiosity knows no bounds, but right now, I'm absorbed in deepening my understanding of cloud/noSQL databases.
+- 🎲 **Just for Fun**: Well, here's an open secret - I pride myself on being a tireless workhorse, relentlessly striving for the pinnacle of quality in everything I create. I eagerly anticipate that right opportunity, that leap of faith from a company, to unleash my full potential and prove my worth in the face of past rejections.
+
+<p align="center">
+  <a href="https://myproject.willykuheleloa.com">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Website-brightgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="mailto:willy_kuheleloa@yahoo.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
 
 ## 🛠 Skills
 
