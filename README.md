@@ -53,9 +53,5 @@ Welcome to my life! I'm an ardent software developer from sunny San Diego, thriv
 ![](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-<details>
-  <summary>Click to expand!</summary>
-
-</details>
 
 Feel free to reach out to me if you want to talk about technology, or if you have a project in mind that you'd like to collaborate on. Let's make something awesome!
